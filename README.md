@@ -1,2 +1,2 @@
 # playground
-My personal playground 
+My personal playground. Learning, learning, learning, ... :-)
